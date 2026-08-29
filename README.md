@@ -25,7 +25,7 @@
 🌱 &nbsp;I'm on track for learning more about Advanced System Design and Microservices.\
 💡 &nbsp;I like to architect scalable full-stack solutions and solve complex algorithmic problems.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at KIET Group of Institutions (2023 - 2027).\
-✍️ &nbsp;In my free time, I pursue Competitive Programming and mentor 200+ students.\
+✍️ &nbsp;In my free time, I pursue Competitive Programming.\
 💬 &nbsp;Feel free to reach out to me for algorithmic discussions or just to connect.\
 ✉️ &nbsp;You can shoot me an email at ayushraj2450@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://portfolio-cper.vercel.app/) for more details about my projects.
