@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://portfolio-cper.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/P_--_Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=00f2fe" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/ayush-raj-119338275/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
