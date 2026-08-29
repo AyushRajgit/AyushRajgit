@@ -65,8 +65,8 @@
 ### 🏆 &nbsp;Competitive Programming Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1800%2B-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ayushraj2450)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/Ayush_Raj_2027)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/ayushraj2450)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ayush_Raj_2027)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayushraj2450)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
