@@ -2,17 +2,14 @@
 
 <p align="center">
   <a href="https://portfolio-cper.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ayush-raj-119338275/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:ayushraj2450@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/AyushRajgit">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
