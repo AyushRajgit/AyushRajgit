@@ -2,14 +2,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-raj-119338275/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="33" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayushraj2450@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="33" alt="Gmail"/>
   </a>
   <a href="https://github.com/AyushRajgit">
-    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="33" alt="GitHub"/>
   </a>
+  <p align="center">
+  <a href="https://portfolio-cper.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=google-chrome&logoColor=00f2fe" alt="Portfolio"/>
+  </a>
+</p>
 </p>
 
 <p align="center">
@@ -70,10 +75,10 @@
 
 <p align="center">
   <a href="https://github.com/AyushRajgit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushRajgit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyushRajgit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/AyushRajgit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRajgit&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushRajgit&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
