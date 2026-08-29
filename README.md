@@ -1,12 +1,12 @@
-![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:00d4ff&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=55)
+![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Incoming%20Software%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=55)
 
 <h2 align="left">Hey there! I'm Ayush Raj</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+🌱 &nbsp;I'm on track for learning more about Advanced System Design and Microservices.\
 💡 &nbsp;I like to architect scalable full-stack solutions and solve complex algorithmic problems.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at KIET Group of Institutions (2023 - 2027).\
-🌱 &nbsp;I'm on track for learning more about Advanced System Design and Microservices.\
 ✍️ &nbsp;In my free time, I pursue Competitive Programming and mentor 200+ students.\
 💬 &nbsp;Feel free to reach out to me for algorithmic discussions or just to connect.\
 ✉️ &nbsp;You can shoot me an email at ayushraj2450@gmail.com! I'll try to respond as soon as I can.\
@@ -29,7 +29,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<br/>
 
 ### 🗃 &nbsp;Databases
 
