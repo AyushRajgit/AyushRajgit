@@ -1,5 +1,24 @@
 ![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1e293b&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=33&animation=twinkling&fontColor=00f2fe&desc=Incoming%20Software%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=60)
 
+<p align="center">
+  <a href="https://portfolio-cper.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ayush-raj-119338275/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ayushraj2450@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AyushRajgit">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+</p>
+
+
 <h2 align="left">Hey there! I'm Ayush Raj</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -67,27 +86,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1800%2B-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ayushraj2450)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ayush_Raj_2027)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayushraj2450)
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="https://portfolio-cper.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-raj-119338275/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ayushraj2450@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AyushRajgit">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
-</p>
 
 ### 🐍 &nbsp;That's How Commits move ...
 
