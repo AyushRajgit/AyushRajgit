@@ -1,5 +1,4 @@
-![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=55)
-
+![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=55)
 
 <h2 align="left">Hey there! I'm Ayush Raj</h2>
 
