@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-raj-119338275/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayushraj2450@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Gmail"/>
   </a>
   <a href="https://github.com/AyushRajgit">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub"/>
   </a>
 </p>
 
