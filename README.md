@@ -17,12 +17,6 @@
 </p>
 </p>
 
-<p align="center">
-  <a href="https://portfolio-cper.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=00f2fe" alt="Portfolio"/>
-  </a>
-</p>
-
 
 <h2 align="left">Hey there! I'm Ayush Raj</h2>
 
