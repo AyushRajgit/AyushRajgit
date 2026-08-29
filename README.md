@@ -7,7 +7,7 @@
 👨‍💻 &nbsp;I am a Software Development Engineer Intern at BitsAtom and a technical instructor.\
 💡 &nbsp;I like to architect scalable full-stack solutions and solve complex algorithmic problems.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at KIET Group of Institutions (2023 - 2027).\
-🌱 &nbsp;I'm on track for learning more about Advanced System Design, WebRTC, and Microservices.\
+🌱 &nbsp;I'm on track for learning more about Advanced System Design and Microservices.\
 ✍️ &nbsp;In my free time, I pursue Competitive Programming and mentor 200+ students.\
 💬 &nbsp;Feel free to reach out to me for algorithmic discussions, engineering architecture, or just to connect.\
 ✉️ &nbsp;You can shoot me an email at ayushraj2450@gmail.com! I'll try to respond as soon as I can.\
@@ -39,15 +39,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
 
-### 🧰 &nbsp;Cloud, DevOps & Tools 
+### 🧰 &nbsp;DevOps & Tools 
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -66,17 +64,17 @@
 
 ### 🏆 &nbsp;Competitive Programming Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1800%2B-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1800%2B-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ayushraj2450)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/Ayush_Raj_2027)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/ayushraj2450)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://portfolio-cper.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ayush-raj-119338275/"><img src="https://img.shields.io/badge/-Ayush%20Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayushraj2450@gmail.com"><img src="https://img.shields.io/badge/-AyushRaj-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/AyushRajgit"><img src="https://img.shields.io/badge/-AyushRajgit-121011?style=flat&logo=Github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayush-raj-119338275/"><img src="https://img.shields.io/badge/-Ayush%20Raj-white?style=flat&logo=linkedin"/></a>
+  <a href="mailto:ayushraj2450@gmail.com"><img src="https://img.shields.io/badge/-AyushRaj-white?style=flat&logo=gmail"/></a>
+  <a href="https://github.com/AyushRajgit"><img src="https://img.shields.io/badge/-AyushRajgit-white?style=flat&logo=github"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
