@@ -1,84 +1,90 @@
-<div align="center">
-  <!-- Premium Minimalist Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=150&section=header&text=AYUSH%20RAJ&fontSize=55&fontColor=ffffff&fontAlignY=50" width="100%"/>
+![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Ayush%20Raj&fontSize=60&animation=fadeIn&fontAlignY=38)
 
-  <!-- Professional Typing Title -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Software+Engineering;Backend+Architecture;Competitive+Programming;Scalable+System+Design" alt="Typing SVG" />
+<img alt="Waving Hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Ayush Raj</h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+👨‍💻 &nbsp;I am a Software Development Engineer Intern at BitsAtom and a technical instructor.\
+💡 &nbsp;I like to architect scalable full-stack solutions and solve complex algorithmic problems.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at KIET Group of Institutions (2023 - 2027).\
+🌱 &nbsp;I'm on track for learning more about Advanced System Design, WebRTC, and Microservices.\
+✍️ &nbsp;In my free time, I pursue Competitive Programming and mentor 200+ students.\
+💬 &nbsp;Feel free to reach out to me for algorithmic discussions, engineering architecture, or just to connect.\
+✉️ &nbsp;You can shoot me an email at ayushraj2450@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://portfolio-cper.vercel.app/) for more details about my projects.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+### 🗃 &nbsp;Databases
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+
+
+### 🧰 &nbsp;Cloud, DevOps & Tools 
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/AyushRajgit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushRajgit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   </a>
+  <a href="https://github.com/AyushRajgit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRajgit&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400"/>
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/ayush-raj-119338275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ayushraj2450@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://portfolio-cper.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"></a>
-  </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushRajgit&theme=dark&hide_border=true"/>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=AyushRajgit&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
+### 🏆 &nbsp;Competitive Programming Stats
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1800%2B-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1400%2B-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3_Star_1700%2B-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://portfolio-cper.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayush-raj-119338275/"><img src="https://img.shields.io/badge/-Ayush%20Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ayushraj2450@gmail.com"><img src="https://img.shields.io/badge/-AyushRaj-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/AyushRajgit"><img src="https://img.shields.io/badge/-AyushRajgit-121011?style=flat&logo=Github&logoColor=white"/></a>
+</p>
+
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushRajgit/AyushRajgit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushRajgit/AyushRajgit/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushRajgit/AyushRajgit/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
----
-
-### ✦ Executive Summary
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering at KIET (2023 - 2027) <!--[cite: 1] -->.
-- 💼 **Experience:** SDE Intern at **BitsAtom**, engineering robust RESTful APIs and translating complex requirements into scalable full-stack features <!--[cite: 1] -->.
-- 🏆 **Leadership:** Vice-President of **DevUp Club** & former CP Coordinator, mentoring 200+ students in competitive programming <!--[cite: 1] -->.
-- ⚙️ **Core Focus:** Event-driven architecture, ACID-compliant database design, and real-time distributed systems <!--[cite: 1] -->.
-
-<br/>
-
-### ✦ Competitive Programming Performance
-
-- <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> **Max Rating: 1800+** <!--[cite: 1] -->
-- <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> **Max Rating: 1400+** <!--[cite: 1] -->
-- <img src="https://img.shields.io/badge/CodeChef-3--Star-5B4638?style=flat-square&logo=codechef&logoColor=white" /> **Max Rating: 1700+** <!--[cite: 1] -->
-- 🥈 **ICAC Contest:** Secured Rank 2 out of 150+ teams <!--[cite: 1] -->
-
----
-
-### ✦ Engineering Portfolio
-
-> **[Agent-Pay-Gateway](https://github.com/AyushRajgit/agent-pay-gateway)**
-> High-throughput procurement engine leveraging **Spring Boot, Node.js, PostgreSQL, and Redis** <!--[cite: 1] -->. Orchestrated asynchronous LLM (Google Gemini) workloads via BullMQ and architected ACID-compliant database locks to successfully eliminate race conditions during checkout pipelines <!--[cite: 1] -->.
-
-> **[ProctoHire-v1](https://github.com/AyushRajgit/ProctoHire-v1)**
-> Scalable real-time video proctoring system powered by **Node.js, WebRTC, and Socket.io** <!--[cite: 1] -->. Deployed on **AWS EC2** cloud infrastructure to ensure high availability with sub-200ms latency, integrating the OpenAI API for complex behavioral anomaly detection <!--[cite: 1] -->.
-
-> **[FlexFitness](https://github.com/AyushRajgit/FlexFitness)** & **[Lodgefy](https://github.com/AyushRajgit/Lodgefy)**
-> Responsive full-stack solutions built for specialized user bases. FlexFitness provides comprehensive gym management tools, while Lodgefy delivers real-time PG and hostel availability tracking for students and professionals.
-
----
-
-<h3 align="center">✦ Technical Arsenal</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">✦ Performance Metrics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushRajgit&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRajgit&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8" height="165" />
-</p>
