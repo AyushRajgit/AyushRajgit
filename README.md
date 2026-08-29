@@ -1,14 +1,15 @@
-![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=0:002244,100:00599C&height=220&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=00F0FF&desc=Architecting%20Scalable%20Solutions&descSize=20&descAlignY=58)
+![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=55)
+
+
 <h2 align="left">Hey there! I'm Ayush Raj</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am a Software Development Engineer Intern at BitsAtom and a technical instructor.\
 💡 &nbsp;I like to architect scalable full-stack solutions and solve complex algorithmic problems.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at KIET Group of Institutions (2023 - 2027).\
 🌱 &nbsp;I'm on track for learning more about Advanced System Design and Microservices.\
 ✍️ &nbsp;In my free time, I pursue Competitive Programming and mentor 200+ students.\
-💬 &nbsp;Feel free to reach out to me for algorithmic discussions, engineering architecture, or just to connect.\
+💬 &nbsp;Feel free to reach out to me for algorithmic discussions or just to connect.\
 ✉️ &nbsp;You can shoot me an email at ayushraj2450@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://portfolio-cper.vercel.app/) for more details about my projects.
 
