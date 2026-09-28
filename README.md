@@ -1,6 +1,6 @@
 ![Ayush Raj Banner](https://capsule-render.vercel.app/api?type=soft&color=0:050505,100:1e293b&height=250&section=header&text=Ayush%20Raj&fontSize=70&fontAlignY=33&animation=twinkling&fontColor=00f2fe&desc=Incoming%20Software%20Engineer%20%7C%20Competitive%20Programmer&descSize=22&descAlignY=60)
 
-<p align="center">
+<p align="center" >
   <a href="https://linkedin.com/in/ayush-raj-119338275/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="33" alt="LinkedIn"/>
   </a>
@@ -48,7 +48,7 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
 
-### 🗃 Databases
+### 🗃 Databases 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
